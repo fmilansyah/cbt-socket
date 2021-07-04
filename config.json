@@ -1,0 +1,5 @@
+{
+    "process_title": "smart-school-sockets",
+    "web_server_port": 5000,
+    "max_seconds_to_wait_on_kill": 3
+}
